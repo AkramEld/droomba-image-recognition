@@ -10,7 +10,7 @@ test/
 __pycache__/
 *.py[cod]
 *$py.class
-mcrnn/data/
+mrcnn/data/
 
 # Distribution / packaging
 .Python
